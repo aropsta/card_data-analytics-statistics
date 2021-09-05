@@ -67,7 +67,7 @@ img {
 }
 
 .image {
- align-content: stretch;
+ align-content: self;
 }
 
 .card {
