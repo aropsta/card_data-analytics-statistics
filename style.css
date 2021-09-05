@@ -62,13 +62,12 @@ p {
 }
 
 img {
-  height: auto;
+  height: 100%;
   width: auto;
 }
 
 .image {
-  width: auto;
-  height: auto;
+ align-content: stretch;
 }
 
 .card {
